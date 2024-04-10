@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background: url(./image/galaxy.jpg);
+    background-size: cover;
+    background-position: center;
+}
+input{
+    text-align: center;
+}
+.buttons{
+    font-size: 1rem;
+    color: #fcfafa;
+    height: 2.5rem;
+    width:15rem ;
+border-radius: 1.5rem;
+margin: 1rem;
+background: transparent;
+border:2px solid white;
+}
+::placeholder{
+    color: white;
+}
+.login{
+    width: 15rem;
+    color:white;
+    font-size: 1rem;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 420px;
+    border: 16px;
+    border: 2px solid rgb(231, 214, 214);
+    border-radius: 1.5rem;
+}
+.h1{
+    text-align: center;
+    color: #f3eeee;
+}
+.link{
+    color: #f3eeee;
+    text-decoration: none;
+    
+}
+buttons.place{
+    color: white;
+}
